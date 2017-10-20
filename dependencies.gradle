@@ -1,0 +1,7 @@
+ext.versions = [
+		supportLibs : '25.0.0'
+]
+
+ext.libraries = [
+		kotlin : "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version",
+]
