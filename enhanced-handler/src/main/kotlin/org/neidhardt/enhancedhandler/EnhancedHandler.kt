@@ -1,4 +1,3 @@
-@file:Suppress("unused")
 package org.neidhardt.enhancedhandler
 
 import android.os.Handler
