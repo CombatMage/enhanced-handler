@@ -8,7 +8,7 @@ import org.robolectric.RobolectricTestRunner
 /**
  * Created by eric.neidhardt@gmail.com on 20.10.2017.
  */
-//@RunWith(RobolectricTestRunner::class)
+@RunWith(RobolectricTestRunner::class)
 class KillableRunnableTest {
 
 	@Test
