@@ -5,6 +5,7 @@ import org.junit.Assert.*
 import org.junit.runner.RunWith
 import org.robolectric.RobolectricTestRunner
 
+
 /**
  * Created by eric.neidhardt@gmail.com on 20.10.2017.
  */
