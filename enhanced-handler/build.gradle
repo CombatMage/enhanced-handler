@@ -28,7 +28,7 @@ ext {
 	siteUrl = 'https://github.com/CombatMage/enhanced-handler'
 	gitUrl = 'https://github.com/CombatMage/enhanced-handler.git'
 
-	libraryVersion = '1.0.3'
+	libraryVersion = '1.0.5'
 
 	developerId = 'combatmage'
 	developerName = 'Eric Neidhardt'
@@ -51,10 +51,6 @@ android {
 		release {
 			minifyEnabled false
 		}
-	}
-	sourceSets {
-		main.java.srcDirs += 'src/main/kotlin'
-		test.java.srcDirs += 'src/test/kotlin'
 	}
 }
 
